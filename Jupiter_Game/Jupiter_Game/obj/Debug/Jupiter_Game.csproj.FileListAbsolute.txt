@@ -1,0 +1,10 @@
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\obj\Debug\Jupiter_Game.csprojAssemblyReference.cache
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\obj\Debug\Jupiter_Game.csproj.CoreCompileInputs.cache
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\bin\Debug\Jupiter_Game.exe.config
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\bin\Debug\Jupiter_Game.exe
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\bin\Debug\Jupiter_Game.pdb
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\bin\Debug\ClassLibrary.dll
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\bin\Debug\ClassLibrary.pdb
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\obj\Debug\Jupiter_Game.csproj.CopyComplete
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\obj\Debug\Jupiter_Game.exe
+C:\Users\smgco\source\repos\Jupiter_Game\Jupiter_Game\obj\Debug\Jupiter_Game.pdb

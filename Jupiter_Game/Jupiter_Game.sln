@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jupiter_Game", "Jupiter_Game\Jupiter_Game.csproj", "{ACDB94AB-35BB-4948-AABF-C7E2BAE67C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{110C8C90-448A-462F-9B88-7C56458CD8C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDB94AB-35BB-4948-AABF-C7E2BAE67C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDB94AB-35BB-4948-AABF-C7E2BAE67C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDB94AB-35BB-4948-AABF-C7E2BAE67C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDB94AB-35BB-4948-AABF-C7E2BAE67C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{110C8C90-448A-462F-9B88-7C56458CD8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110C8C90-448A-462F-9B88-7C56458CD8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110C8C90-448A-462F-9B88-7C56458CD8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110C8C90-448A-462F-9B88-7C56458CD8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0215B859-B80F-4429-891A-8F195A7BA3BA}
+	EndGlobalSection
+EndGlobal
