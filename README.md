@@ -1,4 +1,4 @@
-#First creation of TextAdventure for Git#
+#First creation of Git for TextAdventure#
 
 #THIS IS NOT THE COMPLETED ASSIGNMENT#
 
